@@ -1,6 +1,5 @@
 #include <stdio.h>
 /**
- *
  * main -it prints out output
  *
  * Return: always (0)
